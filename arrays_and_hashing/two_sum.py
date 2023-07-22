@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/two-sum/
 class Solution:
     def bruteForceSolution(self, nums: list[int], target: int) -> list[int]:
         result = list()
